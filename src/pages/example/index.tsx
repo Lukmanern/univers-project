@@ -51,8 +51,8 @@ export default function Home() {
         </div>
 
         <div className={styles.description}>
-          <p>
-            <code className={(styles.code, styles.justify)}>
+          <p className={styles.justify}>
+            <code className={styles.code}>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, laudantium animi? Laudantium quam, magnam ipsam obcaecati vel natus provident quaerat eaque. Deserunt quis provident dolores libero
               aliquid, tempore id illum earum delectus! Deleniti numquam fugit eveniet sequi quas quod voluptatum et, quos dicta. Ipsam perspiciatis in maxime. Repellendus, mollitia laudantium, quam vitae
               debitis suscipit quod earum quasi ullam tempora adipisci officia unde voluptas voluptate magnam dolor accusamus nemo minima assumenda amet libero totam laboriosam. Ab eligendi officiis voluptates
